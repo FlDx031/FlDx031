@@ -51,7 +51,7 @@
 
 ---
 
-## 📌 Current Projects
+## 📌 Current Project
 
 ### 📈 [Portfolio Optimization with Black-Litterman Model](https://github.com/FlDx031/Portfolio-Optimization-with-Black-Litterman-Model)
 > Portfolio optimization using the Black-Litterman model combined with return forecasting via multiple linear regression (Ridge). Complete pipeline: data collection (yfinance, FRED), macro feature engineering, ML model, mean-variance optimization, and backtesting.
@@ -59,21 +59,6 @@
 `Python` `Jupyter` `Machine Learning` `Quantitative Finance` `Black-Litterman`
 
 ---
-
-### 🔗 [Blockchain Project — Understanding Bitcoin](https://github.com/FlDx031/BlockchainProject_Understanding-Bitcoin)
-> A project exploring blockchain technology and the inner workings of Bitcoin, implemented in Java.
-
-`Java` `Blockchain` `Bitcoin`
-
----
-
-### 🎮 [C# Algorithm Games](https://github.com/FlDx031/Csharp-Algorithm-Games)
-> A series of algorithmic games in C# to help you practice for technical interviews. Fun and educational.
-
-`C#` `.NET` `Algorithms` `Interview Prep`
-
----
-
 <div align="center">
 
 *"The more I learn, the more I realize how much I don't know."*
