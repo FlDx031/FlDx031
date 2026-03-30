@@ -1,9 +1,9 @@
 <!-- Banner -->
 <div align="center">
 
-# Hi, I'm Aidin 👋
+# Hi there👋
 
-### Passionné de finance quantitative, d'analyse de données et de Machine Learning — toujours curieux, toujours en train d'apprendre.
+### Enthusiastic about quantitative finance, data analysis, machine learning and new techs, I'm always curious and eager to learn new stuff.
 
 </div>
 
@@ -11,10 +11,9 @@
 
 ## 🧠 About Me
 
-- 📊 Fasciné par la **finance quantitative** et les modèles d'optimisation de portefeuille
-- 🤖 J'explore le **Machine Learning** appliqué aux données financières et bien au-delà
-- 🔍 Curieux par nature, j'aime creuser les sujets jusqu'à les comprendre vraiment
-- 🚀 Toujours partant pour apprendre quelque chose de nouveau — un algo, une lib, un concept
+- 📊 Interested in **quantitative finance** and portfolio optimization models
+- 🤖 I am exploring **machine learning** as applied to financial data.
+- 🔍 I'm curious by nature, and I like to dig deep into topics until I truly understand them
 
 ---
 
@@ -44,33 +43,26 @@
 
 ---
 
-## 📌 Projets en cours
+## 📌 Current Projects
 
 ### 📈 [Portfolio Optimization with Black-Litterman Model](https://github.com/FlDx031/Portfolio-Optimization-with-Black-Litterman-Model)
-> Optimisation de portefeuille avec le modèle Black-Litterman combiné à une prédiction de rendements via régression linéaire multiple (Ridge). Pipeline complet : collecte de données (yfinance, FRED), feature engineering macro, modèle ML, optimisation mean-variance et backtest.
+> Portfolio optimization using the Black-Litterman model combined with return forecasting via multiple linear regression (Ridge). Complete pipeline: data collection (yfinance, FRED), macro feature engineering, ML model, mean-variance optimization, and backtesting.
 
 `Python` `Jupyter` `Machine Learning` `Quantitative Finance` `Black-Litterman`
 
 ---
 
 ### 🔗 [Blockchain Project — Understanding Bitcoin](https://github.com/FlDx031/BlockchainProject_Understanding-Bitcoin)
-> Projet d'exploration de la technologie blockchain et du fonctionnement interne de Bitcoin, implémenté en Java.
+> A project exploring blockchain technology and the inner workings of Bitcoin, implemented in Java.
 
 `Java` `Blockchain` `Bitcoin`
 
 ---
 
 ### 🎮 [C# Algorithm Games](https://github.com/FlDx031/Csharp-Algorithm-Games)
-> Série de jeux algorithmiques en C# pour pratiquer les entretiens techniques. Fun & pédagogique.
+> A series of algorithmic games in C# to help you practice for technical interviews. Fun and educational.
 
 `C#` `.NET` `Algorithms` `Interview Prep`
-
----
-
-### 💰 [Investment Return Calculator](https://github.com/FlDx031/Investment_Return_Calculator)
-> Calculateur de rendement financier en Python permettant de simuler la croissance d'un investissement avec contributions périodiques, taux de rendement annuel et durée personnalisée.
-
-`Python` `Finance` `Calculator`
 
 ---
 
