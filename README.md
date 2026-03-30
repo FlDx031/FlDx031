@@ -12,7 +12,7 @@
 ## 🧠 About Me
 
 - 📊 Interested in **quantitative finance** and portfolio optimization models
-- 🤖 I am exploring **machine learning** as applied to financial data.
+- 🤖 I am exploring **machine learning** as applied to financial data
 - 🔍 I'm curious by nature, and I like to dig deep into topics until I truly understand them
 
 ---
