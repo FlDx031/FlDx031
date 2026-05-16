@@ -3,7 +3,7 @@
 
 # Hi there👋
 
-### Enthusiastic about quantitative finance, data analysis, machine learning and new techs, I'm always curious and eager to learn new stuff.
+### Enthusiastic about Computer Science, Quantitative Finance, machine learning and new techs, I'm always curious and eager to learn new stuff.
 
 </div>
 
@@ -11,7 +11,7 @@
 
 ## 🧠 About Me
 
-- 📊 Interested in **quantitative finance** and portfolio optimization models
+- 📊 Interested in **Computer Science** and **Quantitative Finance**
 - 🤖 I am exploring **machine learning** as applied to financial data
 - 🔍 I'm curious by nature, and I like to dig deep into topics until I truly understand them
 
