@@ -3,7 +3,7 @@
 
 # Hi there👋
 
-### Enthusiastic about Computer Science, Quantitative Finance, machine learning and new techs, I'm always curious and eager to learn new stuff.
+### Enthusiastic about Computer Science, Quantitative Finance, Machine Learning and new techs, I'm always curious and eager to learn new stuff.
 
 </div>
 
