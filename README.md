@@ -48,7 +48,7 @@
 ![GitHub Copilot](https://img.shields.io/badge/GitHub%20Copilot-000000?style=for-the-badge&logo=githubcopilot&logoColor=white)
 ![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
 ![Mermaid](https://img.shields.io/badge/Mermaid-FFD6E8?style=for-the-badge&logo=mermaid&logoColor=000000)
-![Codex](https://img.shields.io/badge/Codex-000000?style=for-the-badge&logo=openai&logoColor=white)
+![Codex](https://img.shields.io/badge/Codex-23272A?style=for-the-badge&logo=openai&logoColor=74AA9C)
 ![Claude](https://img.shields.io/badge/Claude-4285F4?style=for-the-badge&logo=anthropic&logoColor=orange)
 
 ---
