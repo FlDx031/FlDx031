@@ -49,6 +49,7 @@
 ![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
 ![Graphviz](https://img.shields.io/badge/Graphviz-2596BE?style=for-the-badge&logo=graphviz&logoColor=white)
 ![Codex](https://img.shields.io/badge/Codex-000000?style=for-the-badge&logo=openai&logoColor=white)
+![Claude](https://img.shields.io/badge/Claude-4285F4?style=for-the-badge&logo=anthropic&logoColor=white)
 
 ---
 
